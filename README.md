@@ -39,7 +39,7 @@ title filter to select individual Netflix content
 ![Dashboard](https://github.com/PriyabertaSubhransuBehera/Netflix_Dashboard/blob/main/Netflix%20Dashboard.png)
 
 ## 📁 Dataset
-Source:https://github.com/PriyabertaSubhransuBehera/Netflix_Dashboard/blob/main/netflix_titles.xlsx
+Source:https://github.com/Priyabratasubhransubehera/Netflix_Dashboard/blob/main/netflix_titles.xlsx
 - Size: ~8,800+ records
 
 ## 🛠️ Tools Used
