@@ -1,11 +1,11 @@
 # 📊 Netflix Tableau Dashboard
 
-A data visualization project built with Tableau to analyze Netflix's content library and uncover insights about genres, ratings, countries, and trends.
+A data visualization project built with Tableau to analyze Netflix's content library and uncover insights about genres, ratings, countries, distribution,date added, rating. and trends.
 
 
 ## 🔍 Project Overview
 
-This dashboard provides an interactive view of Netflix data including content types, release years, genres, and country-wise distribution. The goal is to derive actionable insights about what kind of content Netflix offers and how it has evolved over time.
+This dashboard provides an interactive view of Netflix data including content types, release years, genres, date added, rating and country-wise distribution. The goal is to derive actionable insights about what kind of content Netflix offers and how it has evolved over time.
 
 ## 📌  Project Objectives
 📊 Visualize Netflix’s content trends over time to understand growth and distribution.
@@ -31,9 +31,9 @@ This dashboard provides an interactive view of Netflix data including content ty
 
 ## 🚀 Dropdown Filters:
 
-type filter (Movie / TV Show)
+- type filter (Movie / TV Show)
 
-title filter to select individual Netflix content
+- title filter to select individual Netflix content
 
 ## Dashboard Preview
 ![Dashboard](https://github.com/PriyabertaSubhransuBehera/Netflix_Dashboard/blob/main/Netflix%20Dashboard.png)
@@ -54,9 +54,15 @@ Source:https://github.com/Priyabratasubhransubehera/Netflix_Dashboard/blob/main/
 ## 🔀 Navigation Tabs (Bottom)
 ✔️Allows users to switch between different dashboard sections:
 
-- TOTAL MOVIES AND TV SHOWS
+- DESCRIPTION
+
+- DURATION
   
 - TV SHOWS AND MOVIES BY COUNTRY
+
+- TOTAL MOVIES AND TV SHOWS DISTRIBUTION
+
+- TOTAL MOVIES AND TV SHOWS BY YEAR
   
 - TOP 10 GENRE
 
@@ -81,10 +87,15 @@ The Tableau dashboard includes:
 Build key charts to explore the data:
 
 🌍Chart	Purpose
+
 :Line Chart	Titles added per year
+
 :Pie/Bar Chart	Movies vs TV Shows
+
 :Bar Chart	Top 10 genres8
+
 :Histogram	Ratings distribution
+
 :Filters	By country, rating, year, genre
 
 ## ✅ Highlights
@@ -98,7 +109,9 @@ Build key charts to explore the data:
 
 
 ## 🚀 How to Open
+
 1.Download the `.twb` file
+
 2.Open it tableau public (free) or Tableau Desktop
 
 ## 📬 Contact
