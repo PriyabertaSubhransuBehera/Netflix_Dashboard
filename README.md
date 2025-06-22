@@ -116,9 +116,9 @@ Build key charts to explore the data:
 
 ## 📬 Contact
 
-Auther: Priyabrata Subhransu Behera
+- Created By : Priyabrata Subhransu Behera
 
-Email: [psubhransubehera@gmail.com]
+- Email : [psubhransubehera@gmail.com]
 
-LinkedIn:[www.linkedin.com/in/priyabrata-subhransu-behera-a3992a369]
+- LinkedIn :[www.linkedin.com/in/priyabrata-subhransu-behera-a3992a369]
 
