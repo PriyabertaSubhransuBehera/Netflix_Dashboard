@@ -1,6 +1,6 @@
 # 📊 Netflix Tableau Dashboard
 
-A data visualization project built with Tableau to analyze Netflix's content library and uncover insights about genres, ratings, countries, distribution,date added, rating. and trends.
+A data visualization project built with Tableau to analyze Netflix's content library and uncover insights about genres, ratings, countries, distribution,date added, ratings. and trends.
 
 
 ## 🔍 Project Overview
